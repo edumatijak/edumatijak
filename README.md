@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola, mi nombre es Eduardo Matijak 👋
+#### Ingeniero Electrónico y Desarrollador de Software
 
 <!--
 **edumatijak/edumatijak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
