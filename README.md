@@ -1,6 +1,9 @@
 ### Hola, mi nombre es Eduardo Matijak 👋
 #### Electronic Engineer & Software Developer
-![](/Figures/electronics_binary.jpeg)
+![](/Figures/elect_bin_1.jpeg)
+
+Soy Ingeniero Electrónico graduado de la UNaM Facultad de Ingeniería que encontró su pasión por networks y el desarrollo de software.
+
 <!--
 **edumatijak/edumatijak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
